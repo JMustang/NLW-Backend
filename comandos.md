@@ -12,11 +12,12 @@
 - yarn add nodemailer
 - yarn add @types/nodemailer -D
 - yarn add handlebars
+- yarn add yup
+- yarn add express-async-errors
 
 ## Comandos para iniciar o jest
 
 - yarn jest --init
-
 
 ## Comando para criar as migrations
 
@@ -35,14 +36,13 @@ yarn typeorm migration:run
 
 - request
 - routes
-- controller 
+- controller
 - repository
 - repository
 - controller
 - response
 
-3 - Ponta a ponta (E2E) 
-
+3 - Ponta a ponta (E2E)
 
 1. #rumoaoproximonivel
 2. #jornadainfinita
